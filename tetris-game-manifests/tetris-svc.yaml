@@ -3,10 +3,19 @@ kind: Service
 metadata:
   name: tetris-service
 spec:
+  # selector:
+  #   app: tetris
+  # ports:
+  #   - protocol: TCP
+  #     port: 80
+  #     targetPort: 80
+  # type: LoadBalancer
+
   selector:
     app: tetris
   ports:
     - protocol: TCP
       port: 80
       targetPort: 80
-  type: LoadBalancer
+      nodePort: 31053 # You can use any port in the range 30000-32767
+  type: NodePort
