@@ -35,10 +35,12 @@ In this project:
 3. Create an ArgoCD application
 4. Sync the application
 
+ 
+ ![Screenshot 2024-12-12 000901](https://github.com/user-attachments/assets/90444692-6799-432b-9540-088e3a1d7eca)
+
+
 ![Screenshot 2024-12-11 225810](https://github.com/user-attachments/assets/9eb04e3f-91d9-4c84-b735-3f5895482526)
 
-
-![61M3rDwh4qL _h1_](https://github.com/user-attachments/assets/20ae31d0-7e83-4347-88c4-c52a46176e48)
 
 
   
