@@ -40,6 +40,19 @@ In this project:
 
 
 ![image](https://github.com/user-attachments/assets/5e448c7d-f455-4515-97b3-6045763f2894)
+#### try with wrong image update
+![image](https://github.com/user-attachments/assets/f09856ce-2075-47e4-bc92-c26ba6b1b6d6)
+
+
+### Game V1 
+![image](https://github.com/user-attachments/assets/85b8bda2-4901-4ca1-8659-73f5a95ceac5)
+
+### Game V2
+![image](https://github.com/user-attachments/assets/9a3ddaa8-9019-4832-8e0e-a9958e53a5dc)
+
+
+
+
 
 
 
