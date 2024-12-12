@@ -9,4 +9,19 @@ spec:
     - protocol: TCP
       port: 80
       targetPort: 80
-  type: LoadBalancer
+      nodePort: 31053
+  type: NodePort
+
+
+# apiVersion: v1
+# kind: Service
+# metadata:
+#   name: tetris-service
+# spec:
+#   selector:
+#     app: tetris
+#   ports:
+#     - protocol: TCP
+#       port: 80
+#       targetPort: 80
+#   type: LoadBalancer
