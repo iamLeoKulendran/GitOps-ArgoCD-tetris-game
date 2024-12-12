@@ -19,3 +19,25 @@ spec:
           image: nasi101/tetris # Replace with the actual image tag
           ports:
             - containerPort: 80 # Replace with the port your Tetris game listens on
+
+# # tetris-deployment.yaml
+
+# apiVersion: apps/v1
+# kind: Deployment
+# metadata:
+#   name: tetris-deployment
+# spec:
+#   replicas: 5 # You can adjust the number of replicas as needed
+#   selector:
+#     matchLabels:
+#       app: tetris
+#   template:
+#     metadata:
+#       labels:
+#         app: tetris
+#     spec:
+#       containers:
+#         - name: tetris
+#           image: nasi101/tetrisv2 # Replace with the actual image tag
+#           ports:
+#             - containerPort: 80 # Replace with the port your Tetris game listens on
