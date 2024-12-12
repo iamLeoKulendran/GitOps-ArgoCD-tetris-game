@@ -39,7 +39,8 @@ In this project:
  ![Screenshot 2024-12-12 000901](https://github.com/user-attachments/assets/90444692-6799-432b-9540-088e3a1d7eca)
 
 
-![Screenshot 2024-12-11 225810](https://github.com/user-attachments/assets/9eb04e3f-91d9-4c84-b735-3f5895482526)
+![image](https://github.com/user-attachments/assets/5e448c7d-f455-4515-97b3-6045763f2894)
+
 
 
 
